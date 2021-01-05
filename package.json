@@ -1,0 +1,22 @@
+{
+  "name": "react-prcatice",
+  "version": "1.0.0",
+  "description": "Directory to learn react and node.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Raghav10026/React-prcatice.git"
+  },
+  "keywords": [
+    "React"
+  ],
+  "author": "Raghav Nagpal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Raghav10026/React-prcatice/issues"
+  },
+  "homepage": "https://github.com/Raghav10026/React-prcatice#readme"
+}
