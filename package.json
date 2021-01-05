@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Raghav10026/React-prcatice/issues"
   },
-  "homepage": "https://github.com/Raghav10026/React-prcatice#readme"
+  "homepage": "https://github.com/Raghav10026/React-prcatice#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
 }
